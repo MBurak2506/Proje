@@ -1,0 +1,16 @@
+# Compiled output
+FamilySync/bin/
+*.class
+
+# Runtime data (kullanıcı verisi ve OAuth token - local kalmalı)
+FamilySync/data/
+data/
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
