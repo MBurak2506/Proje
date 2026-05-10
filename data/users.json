@@ -1,0 +1,32 @@
+{
+  "parents": [
+    {
+      "type": "parent",
+      "id": "1778403017172769",
+      "username": "ebeveyn",
+      "password": "1234",
+      "fullName": "Ayşe Yılmaz",
+      "childrenIds": ["1778403017175654"],
+      "tasks": [],
+      "events": [],
+      "rewardRules": []
+    }
+  ],
+  "children": [
+    {
+      "type": "child",
+      "id": "1778403017175654",
+      "username": "cocuk",
+      "password": "1234",
+      "fullName": "Ali Yılmaz",
+      "age": 12,
+      "parentId": "1778403017172769",
+      "points": 0,
+      "completedTaskCount": 0,
+      "earnedBadges": [],
+      "tasks": [],
+      "assignedTasks": [],
+      "events": []
+    }
+  ]
+}
